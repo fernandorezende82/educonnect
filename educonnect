@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
     <link rel="stylesheet" href="./css/style.css">
     <script src="./js/menu.js"></script>
-    <title>GoodPay</title>
+    <title>EduConnect - Educação e Inclusão Digital</title>
 </head>
 
 <body>
@@ -20,7 +20,7 @@
         <section name="menu-lateral">
             <div class="w3-sidebar w3-bar-block w3-card w3-animate-right" style="display:none;right:0;" id="rightMenu">
                 <button onclick="closeRightMenu()" class="w3-bar-item w3-button w3-large">Fechar &times;</button>
-                <a href="#" class="w3-bar-item w3-button">Login GoodPay</a>
+                <a href="#" class="w3-bar-item w3-button">Login EduConnect</a>
                 <hr>
                 <a href="#" class="w3-bar-item w3-button">Configurações</a>
                 <hr>
@@ -36,10 +36,10 @@
                         </a>
                     </li>
                     <li>
-                        <a href="#">Programa</a>
+                        <a href="#">Programa EduConnect</a>
                     </li>
                     <li>
-                        <a href="#" onclick="document.getElementById('id04').style.display='block'">EcoMoney</a>
+                        <a href="#" onclick="document.getElementById('id04').style.display='block'">Arrecadação</a>
                     </li>
                     <li>
                         <a href="#" onclick="document.getElementById('id02').style.display='block'">Cadastro</a>
@@ -79,35 +79,34 @@
             <div class="w3-flex" style="gap: 12px;">
                 <div class="w3-container">
                     <div class="w3-card-4 w3-center goodpay-card">
-                        <h2>Cashback</h2>
+                        <h2>Doação Inteligente</h2>
                         <img src="./img/card1.png" style="width: 100%;">
                         <div class="w3-container w3-center">
                             <p>
-                                Promoção: Volte para o jogo com cashback de crétitos ESG.
-                                O game não pode parar.
+                               Doe seu Hardware antigo e faça um estudante Feliz !!
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="w3-container">
                     <div class="w3-card-4 w3-center goodpay-card">
-                        <h2>Planeje Bem</h2>
+                        <h2>Pontos de Coleta</h2>
                         <img src="./img/card2.png" style="width: 100%;">
                         <div class="w3-container w3-center">
                             <p>
                                 Planejamento para metas futuras com uso de
-                                renda com mais de 105% do CDB.
+                                inteligencia artificial em Computadores antigos para crianças carentes.
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="w3-container">
                     <div class="w3-card-4 w3-center goodpay-card">
-                        <h2>ECO Pig</h2>
+                        <h2>Adote um estudante</h2>
                         <img src="./img/card3.png" style="width: 100%;">
                         <div class="w3-container w3-center">
-                            <p>Porquinho de ações para investimento em StartUp
-                                de Eco empresas lucrativas.
+                            <p>
+                                Cursos Gratuitos para crianças da rede publica de 7 a 15 anos.
                             </p>
                         </div>
                     </div>
@@ -116,37 +115,33 @@
             <div class="w3-flex" style="gap: 12px;">
                 <div class="w3-container">
                     <div class="w3-card-4 w3-center goodpay-card">
-                        <h2>App GoodPlan</h2>
+                        <h2>Parceiros academicos</h2>
                         <img src="./img/card4.png" style="width: 100%;">
                         <div class="w3-container w3-center">
                             <p>
-                                Planeje seus gastos com nosso
-                                aplicativo de listagem de gastos. Com uso de nossos gráficos.
+                              O portal do doador.
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="w3-container">
                     <div class="w3-card-4 w3-center goodpay-card">
-                        <h2>Club Good</h2>
+                        <h2>O papel do voluntario</h2>
                         <img src="./img/card5.png" style="width: 100%;">
                         <div class="w3-container w3-center">
                             <p>
-                                Receba Créditos para gastar com
-                                viajens cinema e outros Beneficios e gaste
-                                com que você gosta.
+                              Redes de Apoio
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="w3-container">
                     <div class="w3-card-4 w3-center goodpay-card">
-                        <h2>Black Friday</h2>
+                        <h2>Cursos de Algoritmos</h2>
                         <img src="./img/card6.png" style="width: 100%;">
                         <div class="w3-container w3-center">
                             <p>
-                                Em novembro os crétitos vem em dobro,
-                                nada de ficar sem planos, é black das blacks!
+                             Escolas e estudantes
                             </p>
                         </div>
                     </div>
@@ -155,11 +150,11 @@
             <div class="w3-flex" style="gap: 12px;">
                 <div class="w3-container">
                     <div class="w3-card-4 w3-center goodpay-card">
-                        <h2>Gaste com Bem</h2>
+                        <h2>Envio gratis de Hardware</h2>
                         <img src="./img/card7.png" style="width: 100%;">
                         <div class="w3-container w3-center">
                             <p>
-                                Doe seus créditos para entidades que
+                                Doe seus Hardware para entidades que
                                 fazem a diferênça em nosso país
                             </p>
                         </div>
@@ -171,20 +166,19 @@
                         <img src="./img/card8.png" style="width: 100%;">
                         <div class="w3-container w3-center">
                             <p>
-                                Use o nosso cartão e ganhe pequenos
-                                mimos em nossos paceiros de venda
+                                Faça sua doação e ganhe pequenos
+                                mimos em nossas entidades
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="w3-container">
                     <div class="w3-card-4 w3-center goodpay-card">
-                        <h2>Porquinho Verde</h2>
+                        <h2>Doe um Notebook</h2>
                         <img src="./img/card9.png" style="width: 100%;">
                         <div class="w3-container w3-center">
                             <p>
-                                Invista em créditos verdes e ganhe com ações e
-                                investimentos ESG que podem render muito
+                                Invista em sustentabilidade e inovação                              
                             </p>
                         </div>
                     </div>
@@ -196,7 +190,7 @@
                 <h1>FAQ - Dúvidas Frequêntes</h1>
                 <hr>
                 <button onclick="faqFunction('item1')" class="w3-button w3-block w3-green w3-left-align">
-                    O que é o GoodPay? Como faço para me cadastrar?
+                    Como doar equipamentos?
                 </button>
                 <div id="item1" class="w3-hide">
                     <span class="w3-block w3-left-align" style="padding: 5px;">
@@ -211,7 +205,7 @@
                     </span>
                 </div>
                 <button onclick="faqFunction('item2')" class="w3-button w3-block w3-green w3-left-align">
-                    Como posso utilizar o meu cashback do GoodPay?
+                    Como receber os aparelhos?
                 </button>
                 <div id="item2" class="w3-hide">
                     <span class="w3-block w3-left-align" style="padding: 5px;">
@@ -223,7 +217,7 @@
                     </span>
                 </div>
                 <button onclick="faqFunction('item3')" class="w3-button w3-block w3-green w3-left-align">
-                    O que são os "Créditos ESG" e de onde vem o dinheiro do cashback?
+                    Como ser um professor voluntario?
                 </button>
                 <div id="item3" class="w3-hide">
                     <span class="w3-block w3-left-align" style="padding: 5px;">
@@ -237,7 +231,7 @@
                     </span>
                 </div>
                 <button onclick="faqFunction('item4')" class="w3-button w3-block w3-green w3-left-align">
-                    Quais tipos de negócios fazem parte da rede de parceiros do GoodPay?
+                    Como funciona as entidades parceiras?
                 </button>
                 <div id="item4" class="w3-hide">
                     <span class="w3-block w3-left-align" style="padding: 5px;">
@@ -250,7 +244,7 @@
                     </span>
                 </div>
                 <button onclick="faqFunction('item5')" class="w3-button w3-block w3-green w3-left-align">
-                    O que são as "Eco Barreiras" apoiadas pelo GoodPay?
+                    Como funciona os cursos oferecidos?
                 </button>
                 <div id="item5" class="w3-hide">
                     <span class="w3-block w3-left-align" style="padding: 5px;">
@@ -260,7 +254,7 @@
                     </span>
                 </div>
                 <button onclick="faqFunction('item6')" class="w3-button w3-block w3-green w3-left-align">
-                    Como o GoodPay atua na reciclagem e remontagem de equipamentos?
+                    Como funciona a reciclagem e remontagem de equipamentos?
                 </button>
                 <div id="item6" class="w3-hide">
                     <span class="w3-block w3-left-align" style="padding: 5px;">
@@ -271,7 +265,7 @@
                     </span>
                 </div>
                 <button onclick="faqFunction('item7')" class="w3-button w3-block w3-green w3-left-align">
-                    Existe algum custo ou mensalidade para me tornar um assinante?
+                    Existe algum custo ou mensalidade para me tornar um assistente?
                 </button>
                 <div id="item7" class="w3-hide">
                     <span class="w3-block w3-left-align" style="padding: 5px;">
@@ -281,7 +275,7 @@
                     </span>
                 </div>
                 <button onclick="faqFunction('item8')" class="w3-button w3-block w3-green w3-left-align">
-                    Posso usar meu cashback para fazer doações?
+                    Qual a idade minima para participar?
                 </button>
                 <div id="item8" class="w3-hide">
                     <span class="w3-block w3-left-align" style="padding: 5px;">
@@ -291,7 +285,7 @@
                     </span>
                 </div>
                 <button onclick="faqFunction('item9')" class="w3-button w3-block w3-green w3-left-align">
-                    Minha empresa adota práticas sustentáveis. Como faço para ser parceira do GoodPay?
+                    Minha empresa adota práticas sustentáveis. Como posso participar?
                 </button>
                 <div id="item9" class="w3-hide">
                     <span class="w3-block w3-left-align" style="padding: 5px;">
@@ -302,7 +296,7 @@
                     </span>
                 </div>
                 <button onclick="faqFunction('item10')" class="w3-button w3-block w3-green w3-left-align">
-                    Como faço para acompanhar meu saldo e o impacto sustentável que estou gerando?
+                    Como faço para acompanhar o processo de arrecadação e o impacto sustentável que estou gerando?
                 </button>
                 <div id="item10" class="w3-hide">
                     <span class="w3-block w3-left-align" style="padding: 5px;">
